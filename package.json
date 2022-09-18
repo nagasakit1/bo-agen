@@ -1,0 +1,27 @@
+{
+  "name": "link-slot-online-agen-slot-deposit-pulsa",
+  "theme": "ui",
+  "version": "1.0.11",
+  "description": "Bandar slot online pulsa tanpa potongan agen slot gacor hari ini 2022 terpercaya. RTP slot 98% paling anti rungkad",
+  "keywords": [
+    "pulsa777",
+    "slot deposit pulsa",
+    "slot pulsa 10rb",
+    "situs dana via pulsa 5000",
+    "situs slot tanpa potongan",
+    "slot gacor hari ini",
+    "slot online deposit pulsa",
+    "slot Online deposit pulsa Tanpa potongan",
+    "agen slot deposit dana",
+    "slot deposit via dana",
+    "slot deposit dana 10000",
+    "situs slot deposit dana",
+    "slot Gacor Hari Ini",
+    "slot Online Via Dana"
+  ],
+  "repository": "https://github.com/nagasakit1/bo-agen.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.12 <2.0.0"
+  }
+}
